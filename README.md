@@ -1,14 +1,13 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&width=800&lines=Hey+there!+👋+I'm+Prakash+Mishra;Open+Source+Contributor+%7C+GSOC'25+Participant;Full+Stack+%26+DevOps+Enthusiast;Competitive+Programmer+in+Java;Lifelong+Learner+%26+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00F7FF&width=800&lines=Prakash+Mishra;GSOC+Participant;Open-Source+Tooling;Docker+%E2%80%A2+GitHub+Actions)](https://git.io/typing-svg)
 
 ---
 
 ## 💫 About Me
-- 🌱 Currently exploring **Docker** for deployment & **GitHub Actions** for CI/CD
 - 🏆 **Google Summer of Code 2025** participant
 - 💻 Active on **[LeetCode](https://leetcode.com/u/PrakashMishra_007/)** for competitive programming (Java)
-- 🛠 Passionate about **open-source license compliance tools**
-- 🎯 Focused on **JavaScript**, **Kotlin**, **Java**, and modern DevOps practices
+- 🛠 Passionate about **open-source software**
+- 🎯 Focused on **JavaScript**, **Kotlin**, **Java**, **C++** and modern Devloper practices
 
 ---
 
@@ -30,7 +29,7 @@
 License compliance software system & toolkit — contributed during GSoC.
 
 ### 🔹 [OSS Review Toolkit (ORT)](https://github.com/Prakash-Mishra-9ghz/ort)
-Automates software compliance checks for open-source projects.
+Automates software compliance checks for open-source projects - contributed during GSoC.
 
 ### 🔹 [Link Tracker Extension](https://github.com/Prakash-Mishra-9ghz/link-tracker-extension)
 Browser extension to track and manage links efficiently.
