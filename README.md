@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00F7FF&width=800&lines=Prakash+Mishra;GSOC+Participant;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00F7FF&width=800&lines=Hey+there+!+I+am+Prakash+Mishra;GSOC+Participant;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
