@@ -1,5 +1,11 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=5bc0eb&width=800&lines=Hey+there+!+I+am+Prakash+Mishra;GSOC+Participant;Open-Source+Contributor)](https://git.io/typing-svg)
+<div align="center">
+
+# 🐧 Hey there! I’m <strong>Prakash Mishra</strong>  
+### GSoC Participant · Open-Source Contributor
+
+</div>
+
 
 ---
 
