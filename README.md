@@ -51,8 +51,9 @@ Browser extension to track and manage links efficiently.
 ---
 
 ## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical" alt="Prakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical&rank_icon=github" alt="Prakash's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-Mishra-9ghz&theme=radical" alt="GitHub Streak" />
   <br/>
