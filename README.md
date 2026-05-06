@@ -56,7 +56,7 @@ Browser extension to track and manage links efficiently.
 
 <p align="center">
   <!-- Using a community mirror for better reliability -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prakash-Mishra-9ghz&layout=compact&theme=radical" alt="Languages" />
 </p>
 
