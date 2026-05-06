@@ -18,17 +18,19 @@
 ---
 
 ##  Tech Stack & Tools
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+<div align="center">
+
+**Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,nodejs,react,mongodb,html,css&perline=8" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,linux&perline=8" />
+</p>
+
+</div>
 
 ---
 
@@ -53,11 +55,9 @@ Browser extension to track and manage links efficiently.
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical&rank_icon=github" alt="Prakash's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash-Mishra-9ghz&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Mishra-9ghz&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Using a community mirror for better reliability -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prakash-Mishra-9ghz&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prakash-Mishra-9ghz&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ---
